@@ -1,2 +1,2 @@
 # MakiMaki
-Colored and improved icon sets from Maki and Temaki
+Optimized, colored and improved icon sets from Maki and Temaki
